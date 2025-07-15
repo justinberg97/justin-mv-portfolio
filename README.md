@@ -106,8 +106,7 @@ View the deployed portfolio here:
 
 I’d love to connect with others in the tech community—whether to collaborate, share ideas, or explore new opportunities.
 
-- **Personal Email:** [justinmberg97@gmail.com](mailto:justinmberg97@gmail.com)  
-- **Work Email:** [justin.berg1@verizon.com](mailto:justin.berg1@verizon.com)  
+- **Email:** [justinmberg97@gmail.com](mailto:justinmberg97@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/justin-berg-07409518a](https://www.linkedin.com/in/justin-berg-07409518a/)
 
 ---
